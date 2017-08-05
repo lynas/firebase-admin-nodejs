@@ -1,0 +1,4 @@
+.idea
+*iml
+/functions/node_modules/
+/firebase-debug.log
